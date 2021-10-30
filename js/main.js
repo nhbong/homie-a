@@ -104,7 +104,7 @@ $('#yes').click(function() {
         width: 900,
         padding: '3em',
         html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Whyyy'>",
-        background: '#fff url("img/TAY2.jpg")',
+        background: '#fff url("img/IMG_1618816844756_1618817003638.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
               url("img/IMG_1618816844756_1618817003638.jpg")
@@ -119,7 +119,7 @@ $('#yes').click(function() {
             Swal.fire({
                 width: 900,
                 confirmButtonText: CONFIG.btnAccept,
-                background: '#fff url("img/TAY2.jpg")',
+                background: '#fff url("img/IMG_1618816844756_1618817003638.jpg")',
                 title: CONFIG.mess,
                 text: CONFIG.messDesc,
                 confirmButtonColor: '#83d0c9',
