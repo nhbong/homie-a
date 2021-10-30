@@ -107,7 +107,7 @@ $('#yes').click(function() {
         background: '#fff url("img/TAY2.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
-              url("img/giphy2.gif")
+              url("img/IMG_1618816844756_1618817003638.jpg")
               left top
               no-repeat
             `,
