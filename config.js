@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Sapa mùa tuyết',
     mess: 'Sời đúng ý rồi đấyyy',
     messDesc: 'Cứ góp tiền đi nhóe, ăn ít thôi, tiết kiệm đii',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnAccept: 'Okiiiii lun, tiện thì vào fb tớ viết Cfs nhó hehe <3',
+    messLink: 'http://fb.com/nhatbong512' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
