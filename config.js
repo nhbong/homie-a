@@ -9,9 +9,9 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à :3',
     question:'hé, ngoài Hà Giang ra mún đi đâu nữa 0',
     btnReply: 'send for me <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    reply: 'Sapa mùa tuyết',
+    mess: 'Sời đúng ý rồi đấyy',
+    messDesc: 'Cứ góp tiền đi nhóe, ăn ít thôi, tiết kiệm đii',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
