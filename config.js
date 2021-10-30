@@ -10,7 +10,7 @@ const CONFIG = {
     question:'hé, ngoài Hà Giang ra mún đi đâu nữa 0',
     btnReply: 'send for me <3',
     reply: 'Sapa mùa tuyết',
-    mess: 'Sời đúng ý rồi đấyy',
+    mess: 'Sời đúng ý rồi đấyyy',
     messDesc: 'Cứ góp tiền đi nhóe, ăn ít thôi, tiết kiệm đii',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
